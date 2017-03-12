@@ -10,5 +10,11 @@ if(!$con){
 }else{
 	echo "Successfully";
 }
-
+echo "I testing"
+$database_name = 'first_db';
+if(!$con){
+	die("Error connection");
+}else{
+	echo "Successfully";
+}
 ?>
