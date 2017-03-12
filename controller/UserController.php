@@ -10,5 +10,5 @@ if(!$con){
 }else{
 	echo "Successfully";
 }
-
+echo "Hello world";
 ?>
